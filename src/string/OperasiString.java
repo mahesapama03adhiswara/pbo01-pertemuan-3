@@ -4,7 +4,7 @@ import java.awt.desktop.SystemHotkey;
 
 public class OperasiString {
     public static void main(String[] args) {
-        string kota = "yogyakarta";
+        String kota = "yogyakarta";
 
         System.out.println(kota);
 
