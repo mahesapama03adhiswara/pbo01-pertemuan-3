@@ -8,8 +8,10 @@ public class IfElse {
         if (uangDidompet<totalBelanja){
             System.out.println("uang kurang , kurangi belanjaan anda");
         }else {
-            System.out.println("uang cukup , mantabbb ");
-       }
+            System.out.println("uang cukup , siipp + ini angsulan pian ");
+       }else{
+            System.out.println("uang pass uy ...");
+        }
 
 
     }
